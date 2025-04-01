@@ -58,7 +58,4 @@ npm run dev
 
 MIT
 
-```plaintext
-
-```
 
